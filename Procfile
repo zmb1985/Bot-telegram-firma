@@ -1,1 +1,1 @@
-python3 telegrambot/bot.py
+python3 bot.py
