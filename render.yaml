@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: my-bot
+    env: python
+    buildCommand: ""
+    startCommand: python3 src/bot.py
